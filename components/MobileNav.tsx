@@ -26,7 +26,7 @@ const MobileNav = ({ user }: MobileNavProps) => {
             width={30}
             height={30}
             alt="menu"
-            className="cursor-pointe"
+            className="cursor-pointer"
           />
         </SheetTrigger>
         <SheetContent side="left" className="border-none bg-white">
